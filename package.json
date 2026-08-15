@@ -1,0 +1,21 @@
+{
+  "name": "tecnica1_dad1",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Sil-Palaoro/tecnica1_dad1#readme",
+  "bugs": {
+    "url": "https://github.com/Sil-Palaoro/tecnica1_dad1/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sil-Palaoro/tecnica1_dad1.git"
+  },
+  "license": "ISC",
+  "author": "Silvina Palaoro",
+  "type": "commonjs",
+  "main": "diagnostico.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "diagnostico": "node diagnostico.js"
+  }
+}
