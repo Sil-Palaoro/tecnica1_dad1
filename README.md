@@ -1,0 +1,1 @@
+# tecnica1_dad1
